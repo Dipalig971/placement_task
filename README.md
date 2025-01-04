@@ -42,3 +42,5 @@ A Flutter Todo App that allows users to manage their tasks efficiently with a cl
 ## Persistent Data:
 
 - Light/Dark Theme, List/Grid View preference, and bookmarked todos are saved locally using SharedPreferences.
+
+<img src="" width=240>
