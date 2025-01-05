@@ -43,4 +43,7 @@ A Flutter Todo App that allows users to manage their tasks efficiently with a cl
 
 - Light/Dark Theme, List/Grid View preference, and bookmarked todos are saved locally using SharedPreferences.
 
-<img src="" width=240>
+https://github.com/user-attachments/assets/61cb35cf-6fc3-47dd-9d86-d0dbfefd1a64
+
+
+
